@@ -35,5 +35,3 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 </p>
-
-![snake gif](https://github.com/Dr4gonPlus/Dr4gonPlus/blob/output/github-contribution-grid-snake.svg)
