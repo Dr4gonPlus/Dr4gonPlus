@@ -36,3 +36,9 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dr4gonPlus/Dr4gonPlus/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dr4gonPlus/Dr4gonPlus/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Dr4gonPlus/Dr4gonPlus/output/snake.svg">
+</picture>
