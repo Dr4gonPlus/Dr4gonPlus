@@ -15,8 +15,9 @@
 - Aprender continuamente e compartilhar conhecimento com a comunidade
 
 #### About me
+  - 🖥️ Network Technician
   - 👨‍💻 Full-stack developer with a passion for clean code and creative solutions
-  - 📚 Open to collaboration, fueled by coffee and curiosity
+  - 📚 Open to collaboration, fueled by tea and curiosity
   - 💡 Always building, always learning — one bug at a time
 
 
